@@ -13,27 +13,6 @@
 
 </div>
 
-<!-- ========================= ABOUT ME ========================= -->
-## 🧑‍💻 About Me
-
-```java
-public class HaiNinh {
-    // Always coding, always learning 🔥
-    String  name      = "Hai Ninh";
-    String  status    = "🎯 Focusing";
-    String[] stack    = { "Java", "C#", ".NET", "TypeScript" };
-    long    coffee    = Long.MAX_VALUE; // coffee in, code out
-
-    public String motto() {
-        return "It's not a bug, it's an undocumented feature 🐛";
-    }
-
-    public String debug() {
-        return "console.log('here');  // ...repeat until 3 AM";
-    }
-}
-```
-
 <!-- ========================= TECH STACK ========================= -->
 ## 🛠️ Tech Stack
 
