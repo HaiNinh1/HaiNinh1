@@ -1,0 +1,26 @@
+name: Waka Readme
+
+# OPTIONAL — weekly coding-time stats in your README.
+# Requires: a free WakaTime account + a WAKATIME_API_KEY repo secret.
+# Full steps are in SETUP.md. Safe to delete this file if you don't want it.
+
+on:
+  schedule:
+    # Runs once a day at 00:30 UTC
+    - cron: "30 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: athul/waka-readme@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          # These control what shows between the START/END:waka markers in README.md
+          SHOW_TITLE: "true"
+          BLOCKS: "░▒▓█"
+          TIME_RANGE: "last_7_days"
+          LANG_COUNT: "6"
