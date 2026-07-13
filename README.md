@@ -164,6 +164,6 @@ public class HaiNinh {
 
 *"There are only 10 types of people in the world: those who understand binary and those who don't."*
 
-**☕ Powered by coffee, chaos, and Ctrl+Z.**
+**☕ Powered by cà phê sữa đá, chaos, and Ctrl+Z.**
 
 </div>
