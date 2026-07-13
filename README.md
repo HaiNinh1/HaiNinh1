@@ -47,29 +47,6 @@
 
 </div>
 
-<!-- ========================= GITHUB STATS ========================= -->
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=HaiNinh1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaiNinh1&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
-<br/>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=HaiNinh1&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-</div>
-
-<!-- ========================= TROPHIES ========================= -->
-## 🏆 Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=HaiNinh1&theme=tokyonight&no-frame=true&no-bg=false&column=7&margin-w=8&margin-h=8)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
 <!-- ========================= ACTIVITY GRAPH ========================= -->
 ## 📈 Contribution Graph
 
