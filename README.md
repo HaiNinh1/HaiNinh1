@@ -3,7 +3,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%2C%20I'm%20Hai%20Ninh%20%F0%9F%91%8B&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20%C2%B7%20C%23%20%C2%B7%20TypeScript%20%C2%B7%20.NET&descSize=18&descAlignY=58" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=520&lines=Java+by+day%2C+C%23+by+night%2C+Stack+Overflow+always;Code+chay+duoc+la+duoc%2C+dung+hoi+tai+sao+%F0%9F%90%9B;1+line+of+code%2C+100+tabs+of+Stack+Overflow;Con+code+la+con+hoc...+%F0%9F%94%A5)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=520&lines=Java+by+day%2C+C%23+by+night%2C+Stack+Overflow+always;Weeks+of+coding+save+hours+of+planning+%F0%9F%98%8E;1+line+of+code%2C+100+tabs+of+Stack+Overflow;Ctrl-C+%2B+Ctrl-V+%3D+my+design+pattern+%F0%9F%98%85)](https://git.io/typing-svg)
 
 <br/>
 
@@ -18,18 +18,18 @@
 
 ```java
 public class HaiNinh {
-    // Còn code là còn học 🔥
+    // Always coding, always learning 🔥
     String  name      = "Hai Ninh";
     String  status    = "🎯 Focusing";
     String[] stack    = { "Java", "C#", ".NET", "TypeScript" };
-    long    coffee    = Long.MAX_VALUE; // cà phê sữa đá → code
+    long    coffee    = Long.MAX_VALUE; // coffee in, code out
 
     public String motto() {
         return "It's not a bug, it's an undocumented feature 🐛";
     }
 
     public String debug() {
-        return "console.log('here');  // ...và cứ thế đến 3 giờ sáng";
+        return "console.log('here');  // ...repeat until 3 AM";
     }
 }
 ```
@@ -134,7 +134,7 @@ public class HaiNinh {
 <div align="center">
 
 <!-- Custom quote — edit the "lines=" below (separate quotes with ; ). Keep just one if you want only yours. -->
-[![Quote Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1200&color=F5A623&center=true&vCenter=true&width=520&lines=Code+hard%2C+ca+phe+harder+%E2%98%95;Con+code+la+con+hoc...+%F0%9F%94%A5;It+works+on+my+machine...+ship+it+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Quote Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1200&color=F5A623&center=true&vCenter=true&width=520&lines=Code+hard%2C+coffee+harder+%E2%98%95;Talk+is+cheap.+Show+me+the+code+%F0%9F%94%A5;It+works+on+my+machine...+ship+it+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <br/>
 
@@ -164,6 +164,6 @@ public class HaiNinh {
 
 *"There are only 10 types of people in the world: those who understand binary and those who don't."*
 
-**☕ Powered by cà phê sữa đá, chaos, and Ctrl+Z.**
+**☕ Powered by coffee, chaos, and Ctrl+Z.**
 
 </div>
