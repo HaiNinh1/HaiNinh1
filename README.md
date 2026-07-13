@@ -129,12 +129,17 @@ public class HaiNinh {
 ====================================================================
 -->
 
-<!-- ========================= QUOTE ========================= -->
-## 💡 Random Dev Quote (probably a lie)
+<!-- ========================= MY QUOTE ========================= -->
+## ☕ Words I Code By
 
 <div align="center">
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
+<!-- Custom quote — edit the "lines=" below (separate quotes with ; ). Keep just one if you want only yours. -->
+[![Quote Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1200&color=F5A623&center=true&vCenter=true&width=520&lines=Code+hard%2C+ca+phe+harder+%E2%98%95;Con+code+la+con+hoc...+%F0%9F%94%A5;It+works+on+my+machine...+ship+it+%F0%9F%9A%80)](https://git.io/typing-svg)
+
+<br/>
+
+<sub><i>— Hai Ninh · <a href="https://github.com/HaiNinh1">@HaiNinh1</a></i></sub>
 
 </div>
 
