@@ -1,9 +1,9 @@
 <!-- ========================= HERO BANNER ========================= -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%2C%20I'm%20Hai%20Ninh%20%F0%9F%91%8B&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Sinh%20vien%20IT%20%40%20TLU%20%7C%20Java%20%C2%B7%20C%23%20%C2%B7%20TypeScript&descSize=18&descAlignY=58" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%2C%20I'm%20Hai%20Ninh%20%F0%9F%91%8B&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20%C2%B7%20C%23%20%C2%B7%20TypeScript%20%C2%B7%20.NET&descSize=18&descAlignY=58" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=520&lines=Sinh+vien+IT+%40+TLU+%F0%9F%8E%93;Java+by+day%2C+C%23+by+night%2C+Stack+Overflow+always;Code+chay+duoc+la+duoc%2C+dung+hoi+tai+sao+%F0%9F%90%9B;1+line+of+code%2C+100+tabs+of+Stack+Overflow;Con+code+la+con+hoc...+%F0%9F%94%A5)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=520&lines=Java+by+day%2C+C%23+by+night%2C+Stack+Overflow+always;Code+chay+duoc+la+duoc%2C+dung+hoi+tai+sao+%F0%9F%90%9B;1+line+of+code%2C+100+tabs+of+Stack+Overflow;Con+code+la+con+hoc...+%F0%9F%94%A5)](https://git.io/typing-svg)
 
 <br/>
 
@@ -20,7 +20,6 @@
 public class HaiNinh {
     // Còn code là còn học 🔥
     String  name      = "Hai Ninh";
-    String  school    = "TLU";          // 🎓 chỉnh lại trường của bạn nếu cần
     String  status    = "🎯 Focusing";
     String[] stack    = { "Java", "C#", ".NET", "TypeScript" };
     long    coffee    = Long.MAX_VALUE; // cà phê sữa đá → code
