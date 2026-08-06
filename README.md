@@ -5,7 +5,7 @@
 
 <b>Java · C# · TypeScript · .NET</b>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=520&lines=Java+by+day%2C+C%23+by+night%2C+Stack+Overflow+always;Weeks+of+coding+save+hours+of+planning+%F0%9F%98%8E;1+line+of+code%2C+100+tabs+of+Stack+Overflow;Ctrl-C+%2B+Ctrl-V+%3D+my+design+pattern+%F0%9F%98%85)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=520&lines=Java+by+day%2C+debugger+by+night%2C+coffee+always+%E2%98%95;Weeks+of+coding+save+hours+of+planning+%F0%9F%98%8E;1+line+of+code%2C+100+tabs+of+Stack+Overflow;Ctrl-C+%2B+Ctrl-V+%3D+my+design+pattern+%F0%9F%98%85)](https://git.io/typing-svg)
 
 <br/>
 
@@ -30,16 +30,6 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-**Frameworks & Tools**
-
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![WinForms](https://img.shields.io/badge/WinForms-5C2D91?style=for-the-badge&logo=windows&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
-
 **Daily Driver**
 
 ![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-Ctrl+C_Ctrl+V-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)
@@ -57,34 +47,13 @@
 </div>
 
 <!-- ========================= SNAKE ========================= -->
-## 🐍 Watch the Snake Eat My Commits
+## 🐍 Contribution Snake
 
 <div align="center">
 
 ![Snake animation](https://raw.githubusercontent.com/HaiNinh1/HaiNinh1/output/github-contribution-grid-snake-dark.svg)
 
 </div>
-
-<!--
-====================================================================
-  OPTIONAL WIDGETS — uncomment AFTER you finish setup in SETUP.md
-====================================================================
-
-## 🎧 Now Playing
-
-<div align="center">
-
-[![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_UID&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_UID&redirect=true)
-
-</div>
-
-## ⏱️ Weekly Coding Stats (WakaTime)
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-====================================================================
--->
 
 <!-- ========================= MY QUOTE ========================= -->
 ## ☕ Words I Code By
