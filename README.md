@@ -3,9 +3,7 @@
 
 <h1>Hi, I'm Hai Ninh 👋</h1>
 
-<b>Java · C# · TypeScript · .NET</b>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=520&lines=Java+by+day%2C+debugger+by+night%2C+coffee+always+%E2%98%95;Weeks+of+coding+save+hours+of+planning+%F0%9F%98%8E;1+line+of+code%2C+100+tabs+of+Stack+Overflow;Ctrl-C+%2B+Ctrl-V+%3D+my+design+pattern+%F0%9F%98%85)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=18&letterSpacing=3px&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Java+by+day%2C+debugger+by+night%2C+coffee+always+%E2%98%95;Weeks+of+coding+save+hours+of+planning+%F0%9F%98%8E;1+line+of+code%2C+100+tabs+of+Stack+Overflow;Ctrl-C+%2B+Ctrl-V+%3D+my+design+pattern+%F0%9F%98%85)](https://git.io/typing-svg)
 
 <br/>
 
@@ -61,7 +59,7 @@
 <div align="center">
 
 <!-- Custom quote — edit the "lines=" below (separate quotes with ; ). Keep just one if you want only yours. -->
-[![Quote Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1200&color=F5A623&center=true&vCenter=true&width=520&lines=Code+hard%2C+coffee+harder+%E2%98%95;Talk+is+cheap.+Show+me+the+code+%F0%9F%94%A5;It+works+on+my+machine...+ship+it+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Quote Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=18&letterSpacing=3px&pause=1200&color=F5A623&center=true&vCenter=true&width=700&lines=Code+hard%2C+coffee+harder+%E2%98%95;Talk+is+cheap.+Show+me+the+code+%F0%9F%94%A5;It+works+on+my+machine...+ship+it+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <br/>
 
@@ -74,7 +72,7 @@
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:viettelvtk@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:haininh320@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HaiNinh1)
 <!-- Uncomment & add your handles, or delete:
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/YOUR_HANDLE)
