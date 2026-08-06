@@ -3,7 +3,7 @@
 
 <h1>Hi, I'm Hai Ninh 👋</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=18&letterSpacing=3px&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Java+by+day%2C+debugger+by+night%2C+coffee+always+%E2%98%95;Weeks+of+coding+save+hours+of+planning+%F0%9F%98%8E;1+line+of+code%2C+100+tabs+of+Stack+Overflow;Ctrl-C+%2B+Ctrl-V+%3D+my+design+pattern+%F0%9F%98%85)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=18&letterSpacing=3px&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Vibe+by+day%2C+Debug+by+night%2C+coffee+always+%E2%98%95;Weeks+of+planning+save+hours+of+coding+%F0%9F%98%8E;1+line+of+code%2C+100+tabs+of+Stack+Overflow;Ctrl-C+%2B+Ctrl-V+%3D+my+design+pattern+%F0%9F%98%85)](https://git.io/typing-svg)
 
 <br/>
 
