@@ -47,7 +47,7 @@
 </div>
 
 <!-- ========================= SNAKE ========================= -->
-## 🐍 Contribution Snake
+## 🐍 Watch the Snake Eat My Commits
 
 <div align="center">
 
