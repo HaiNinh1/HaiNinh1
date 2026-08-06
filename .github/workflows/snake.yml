@@ -22,6 +22,12 @@ jobs:
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
+          # The default action token is repo-scoped, so it only ever sees the
+          # PUBLIC contribution graph — private-repo contributions are dropped
+          # even with "Include private contributions on my profile" enabled.
+          # SNAKE_TOKEN is a classic PAT (repo + read:user) that authenticates
+          # as the user, so the calendar comes back complete.
+          github_token: ${{ secrets.SNAKE_TOKEN || github.token }}
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
