@@ -18,6 +18,16 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
+      - uses: actions/checkout@v4
+
+      # Replaces github-readme-activity-graph.vercel.app, which was shut down
+      # (HTTP 402 DEPLOYMENT_DISABLED). Written into dist/ in this same job
+      # because the push step below replaces the whole output branch.
+      - name: Generate activity graph SVG
+        run: node .github/scripts/activity-graph.mjs "${{ github.repository_owner }}" dist/activity-graph.svg
+        env:
+          GITHUB_TOKEN: ${{ secrets.SNAKE_TOKEN || github.token }}
+
       - name: Generate snake SVGs
         uses: Platane/snk/svg-only@v3
         with:

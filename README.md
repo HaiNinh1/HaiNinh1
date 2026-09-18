@@ -40,7 +40,7 @@
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=HaiNinh1&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Activity Graph](https://raw.githubusercontent.com/HaiNinh1/HaiNinh1/output/activity-graph.svg)
 
 </div>
 
